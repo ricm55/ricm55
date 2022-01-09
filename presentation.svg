@@ -16,10 +16,10 @@
                 }
             }
 
-            
             </style>
-            
-            <h2 class="hello">test</h2>
+            <div>
+                <h2 class="hello">test</h2>
+            </div>
         </div>
     </foreignObject>
 </svg>
