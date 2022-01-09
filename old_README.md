@@ -1,12 +1,3 @@
-# My GitHub README
-
-Welcome to my README!
-
-<div align="center">
-    <img src="presentation.svg">
-</div>
-
-
 <main style="background-color: black;">
 
 <style>

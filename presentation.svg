@@ -36,10 +36,10 @@
             }
 
             </style>
-
-            <div align="center">
+            <div class="presentation">
                 <h2 class="hello" style="margin-bottom:4%;">Hi there 👋</h2>
             </div>
+            
         </div>
     </foreignObject>
 </svg>
