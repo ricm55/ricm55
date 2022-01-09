@@ -39,8 +39,9 @@
             
             <h2 class="hello" style="margin-bottom:4%;">Hi there 👋</h2>
             
-           <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/640px-Firefox_logo%2C_2019.svg.png" x="0" y="0" height="100" width="100" />
-
+           
         </div>
+        <image xlink:href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/640px-Firefox_logo%2C_2019.svg.png" x="0" y="0" height="100" width="100" />
+
     </foreignObject>
 </svg>
