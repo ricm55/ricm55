@@ -28,6 +28,9 @@
                 margin-top: 5%;
                 text-align: center;
             }
+            .presentation > h2{
+                text-align:center;
+            }
 
             hr{
                 width:40%;
