@@ -3,7 +3,7 @@
 Welcome to my README!
 
 <div align="center">
-    <img src="exemple.svg">
+    <img src="presentation.svg">
 </div>
 
 
