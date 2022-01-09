@@ -1,5 +1,7 @@
 <div align="center">
     <img src="presentation.svg">
+</div>
+<div align="center">
     <a class="logo" href="https://hub.docker.com/u/emssy">
         <img src="logos/docker.png" width=15%>
     </a>
