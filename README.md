@@ -10,7 +10,25 @@ Welcome to my README!
 <main style="background-color: black;">
 
 <style>
+            .logo{
+                margin-right:10%;
+                transition: transform .2s;
+            }
 
+            .logo > img:hover{
+                transform: scale(1.1); 
+            }
+
+            .presentation{
+                margin-top: 5%;
+                text-align: center;
+            }
+
+            hr{
+                width:40%;
+                margin-top: 4%;
+                margin-bottom: 10%;
+            }
     
     .flex-container{
         display:flex;
@@ -43,8 +61,21 @@ Welcome to my README!
 
 </style>
 
-
-
+<div align="center">
+                <h2 class="hello" style="margin-bottom:4%;">Hi there 👋</h2>
+                <a class="logo" href="https://hub.docker.com/u/emssy">
+                    <img src="logos/docker.png" width=15%>
+                </a>
+                <a class="logo" href="https://www.linkedin.com/in/marc-antoine-ricard-74a364204/">
+                    <img src="logos/linkedinLogo.png" width=10%>
+                </a>
+                <a class="logo" href="https://dev.to/ricm55">
+                    <img src="logos/devto.png" width=10%>
+                </a>
+            </div>
+<div class="presentation">
+            <p>I'm a young developper that really like to challenge myself and learn new technologies. Here some information that you should know  😊</p>
+        </div>
 <hr/>
 
 <div class="flex-container">
