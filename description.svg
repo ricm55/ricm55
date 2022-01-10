@@ -1,0 +1,48 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            .flex-container{
+                display:flex;
+                flex-direction:column;
+            }
+            .flex-container > div {
+                background-color: #606060;
+                border-radius: 25px;
+                color:black;
+                width:90%;
+                
+                margin-bottom:2%;
+                cursor: move;
+                padding-top:1%;
+                padding-bottom:1%;
+                flex-grow:1;
+                transition: transform .2s;
+            }
+            .flex-container > div:hover{
+                transform: scale(1.1); 
+            }
+            </style>
+            <div class="flex-container">
+                <div>
+                    <h2 align="center"> About me 😄</h2>
+                    <ul>
+                        <li> I really like programming new stuff, mainly Web development </li>
+                        <li>I like to rack my brains to solve new challenges</li>
+                        <li>I'm able to deal with a lot of documentation to be able to accomplish my challenges</li>
+                    </ul>
+                </div>
+                <div>
+                    <h2 align="center"> Technologies 🤖</h2>
+                    <ul>
+                        <li>Multiple OS (linux, Windows)</li>
+                        <li>Web framework (express,Laravel...) with MVC</li>
+                        <li>Database managment system (mysql, postegres...)</li>
+                        <li>Currently learning docker and ASP.NET</li>
+                        <li>A lot of other stuff 😉</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
