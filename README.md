@@ -1,2 +1,4 @@
-<p style="font-weight: bold;">allo</p>
-<p>allo</p>
+<div align="center">
+    <img src="presentation.svg">
+    <p>test</p>
+</div>
