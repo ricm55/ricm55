@@ -1,8 +1,9 @@
 <div align="center">
     <img src="presentation.svg">
-    <a href=""><img src="https://raw.githubusercontent.com/ricm55/ricm55/master/logos/docker.png" height="50"/></a>
-    <a href=""><img src="https://raw.githubusercontent.com/ricm55/ricm55/master/logos/docker.png" height="50"/></a>
-    <a href=""><img src="https://raw.githubusercontent.com/ricm55/ricm55/master/logos/docker.png" height="50"/></a>
+    <br>
+    <a href=""><img src="logos/docker.png" height="50"/></a>
+    <a href=""><img src="logos/linkedinLogo.png" height="50"/></a>
+    <a href=""><img src="logos/devto.png" height="50"/></a>
 </div>
 
 <br>
@@ -15,3 +16,10 @@ I'm a young developper that really like to challenge myself and learn new techno
 <div align="center">
     <img src="description.svg">
 </div>
+
+<div align="center">
+    <h2> Github stats 📈</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=ricm55&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricm55&theme=dark">
+</div>
+
