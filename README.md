@@ -10,7 +10,7 @@ Here some information that you should know  😊
 </div>
 <br/><br/>
 <div align="center">
-    <img src="description20.svg">
+    <img src="description21.svg">
 </div>
 
 <div align="center">
