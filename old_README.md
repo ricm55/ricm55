@@ -22,26 +22,7 @@
                 margin-bottom: 10%;
             }
     
-    .flex-container{
-        display:flex;
-        flex-direction:column;
-    }
-    .flex-container > div {
-        background-color: #606060;
-        border-radius: 25px;
-        color:black;
-        width:90%;
-        
-        margin-bottom:2%;
-        cursor: move;
-        padding-top:1%;
-        padding-bottom:1%;
-        flex-grow:1;
-        transition: transform .2s;
-    }
-    .flex-container > div:hover{
-        transform: scale(1.1); 
-    }
+
 
     .stats >img{
         cursor:move;
