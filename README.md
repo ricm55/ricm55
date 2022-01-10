@@ -1,6 +1,5 @@
 <div align="center">
     <img src="presentation.svg">
-    <br>
 </div>
 
 <br/>
