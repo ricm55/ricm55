@@ -8,7 +8,7 @@ I'm a young developper that really like to challenge myself and learn new techno
 </div>
 <br/><br/>
 <div align="center">
-    <img src="description.svg">
+    <img src="description2.svg">
 </div>
 
 <div align="center">
