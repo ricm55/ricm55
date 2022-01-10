@@ -1,9 +1,6 @@
 <div align="center">
     <img src="presentation.svg">
     <br>
-    <a href="https://hub.docker.com/u/emssy"><img src="logos/docker.png" height="50"/></a>
-    <a href="https://www.linkedin.com/in/marc-antoine-ricard-74a364204/"><img src="logos/linkedinLogo.png" height="50"/></a>
-    <a href="https://dev.to/ricm55"><img src="logos/devto.png" height="50"/></a>
 </div>
 
 <br/>
