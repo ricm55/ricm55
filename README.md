@@ -1,3 +1,3 @@
-<div align="center">
-    <img src="presentation.svg">
-</div>
+
+<img align="center" src="presentation.svg">
+
