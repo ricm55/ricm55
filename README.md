@@ -9,10 +9,9 @@
 <br/>
 <div align="center">
 I'm a young developper that really like to challenge myself and learn new technologies. Here some information that you should know  😊
+<hr width=40%>
 </div>
-<br>
-<hr width=40% align="center">
-<br/>
+<br/><br/>
 <div align="center">
     <img src="description.svg">
 </div>
