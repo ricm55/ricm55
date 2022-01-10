@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-I'm a young developper that really like to challenge myself and learn new technologies !
+I am a young developer who likes to challenge myself and learn new technologies !
 <br>
-Here some information that you should know  😊
+Here are some informations you should know 😊
 <hr width=40%>
 </div>
 <br/><br/>
