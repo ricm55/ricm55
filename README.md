@@ -1,7 +1,7 @@
 <div align="center">
     <img src="presentation.svg">
     <br>
-    <a class="logo" margin-top=35px href="https://hub.docker.com/u/emssy">
+    <a class="logo" href="https://hub.docker.com/u/emssy">
         <img src="logos/docker.png" width=15%>
     </a>
     <a class="logo" href="https://www.linkedin.com/in/marc-antoine-ricard-74a364204/">
